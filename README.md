@@ -25,7 +25,7 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 - `Project_Image_Classifier_Project.ipynb`: This is the main notebook to create and train a TensorFlow Keras model to predict the type of a flower from its image.
 - `Project_Image_Classifier_Project.html`: HTML format of the notebook for viewing in browser
 - `predict.py`: The command line application that implements the trained deep learning network to classify an input flower image.
-- `model1581751950.h5`: The final deep learning model that predicts the flower type from its image with above 90% accuracy.
+- `my_model.h5`: The final deep learning model that predicts the flower type from its image with above 90% accuracy.
 - `label_map.json`: The mapping of the key values to their corresponding flower types.
 - `workspace-utils.py`: The supporting methods to keep the notebook active during long deep learning training phase.
 
